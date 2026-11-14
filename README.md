@@ -1,6 +1,6 @@
 # mocap4r2_interfaces
 
-[![CI](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/ci.yaml/badge.svg?branch=rolling)](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/ci.yaml)
+[![rolling](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/rolling.yaml/badge.svg?branch=rolling)](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/rolling.yaml) [![lyrical](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/lyrical.yaml/badge.svg?branch=rolling)](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/lyrical.yaml) [![kilted](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/kilted.yaml/badge.svg?branch=rolling)](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/kilted.yaml) [![jazzy](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/jazzy.yaml/badge.svg?branch=rolling)](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/jazzy.yaml) [![humble](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/humble.yaml/badge.svg?branch=rolling)](https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/actions/workflows/humble.yaml)
 
 Messages and services of [MOCAP4ROS2](https://mocap4ros2-project.github.io): markers,
 rigid bodies and skeletons with tracking validity and stable ids, system announcement
