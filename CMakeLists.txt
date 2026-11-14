@@ -19,6 +19,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/MocapSystemInfo.msg"
   "msg/Control.msg"
   "msg/ControlAck.msg"
+  "msg/TrajectoryError.msg"
   "srv/SetOrigin.srv"
   DEPENDENCIES builtin_interfaces geometry_msgs lifecycle_msgs std_msgs
 )
