@@ -7,8 +7,8 @@
   <maintainer email="fmrico@gmail.com">Francisco Martín Rico</maintainer>
   <license>Apache-2.0</license>
   <url type="website">https://mocap4ros2-project.github.io</url>
-  <url type="repository">https://github.com/MOCAP4ROS2-Project/mocap4r2_msgs</url>
-  <url type="bugtracker">https://github.com/MOCAP4ROS2-Project/mocap4r2_msgs/issues</url>
+  <url type="repository">https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces</url>
+  <url type="bugtracker">https://github.com/MOCAP4ROS2-Project/mocap4r2_interfaces/issues</url>
   <author email="fmrico@gmail.com">Francisco Martín Rico</author>
   <author>José Miguel Guerrero</author>
 
